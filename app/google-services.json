@@ -1,0 +1,275 @@
+{
+  "project_info": {
+    "project_number": "673383426957",
+    "firebase_url": "https://fir-92fc3.firebaseio.com",
+    "project_id": "fir-92fc3",
+    "storage_bucket": "fir-92fc3.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673383426957:android:093b167adc972bc9",
+        "android_client_info": {
+          "package_name": "lifesaver.example.nikhil.myfire"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673383426957-72l01se00vn6b4lgruouild8384gorj6.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lifesaver.example.nikhil.myfire",
+            "certificate_hash": "0071667b759314fbc6b7a7926f9a16caa079d8ee"
+          }
+        },
+        {
+          "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdaAz-PBrjI-mOxO71Qx2L8Uc2AAyav1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673383426957:android:1414ad4818bce674",
+        "android_client_info": {
+          "package_name": "lifesaver.example.nikhil.firedatabase"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673383426957-iisu70hrv2q33cp0i5poe07b5l7r111l.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lifesaver.example.nikhil.firedatabase",
+            "certificate_hash": "0071667b759314fbc6b7a7926f9a16caa079d8ee"
+          }
+        },
+        {
+          "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdaAz-PBrjI-mOxO71Qx2L8Uc2AAyav1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673383426957:android:e22d88ff903b3406",
+        "android_client_info": {
+          "package_name": "lifesaver.example.nikhil.calculator"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673383426957-902c0rj0s3stfdcggi667brvqg760n9m.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lifesaver.example.nikhil.calculator",
+            "certificate_hash": "0071667b759314fbc6b7a7926f9a16caa079d8ee"
+          }
+        },
+        {
+          "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdaAz-PBrjI-mOxO71Qx2L8Uc2AAyav1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673383426957:android:4f40f52f1eb41b8c",
+        "android_client_info": {
+          "package_name": "lifesaver.example.nikhil.calci"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673383426957-ruiit956r5cejdb6rlao8651h8tc20nv.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lifesaver.example.nikhil.calci",
+            "certificate_hash": "0071667b759314fbc6b7a7926f9a16caa079d8ee"
+          }
+        },
+        {
+          "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdaAz-PBrjI-mOxO71Qx2L8Uc2AAyav1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673383426957:android:508e6e3dc228acf9",
+        "android_client_info": {
+          "package_name": "lifesaver.example.nikhil.firebasenotification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673383426957-gtinjr3adqnaibuv4sv8pvu30tk4pq0k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lifesaver.example.nikhil.firebasenotification",
+            "certificate_hash": "0071667b759314fbc6b7a7926f9a16caa079d8ee"
+          }
+        },
+        {
+          "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdaAz-PBrjI-mOxO71Qx2L8Uc2AAyav1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    },
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:673383426957:android:3e8ada4a30c727db",
+        "android_client_info": {
+          "package_name": "lifesaver.example.nikhil.notification"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "673383426957-8ahjn42d4rbmrl3acoh0d9usuifagimd.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "lifesaver.example.nikhil.notification",
+            "certificate_hash": "0071667b759314fbc6b7a7926f9a16caa079d8ee"
+          }
+        },
+        {
+          "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyDdaAz-PBrjI-mOxO71Qx2L8Uc2AAyav1g"
+        }
+      ],
+      "services": {
+        "analytics_service": {
+          "status": 1
+        },
+        "appinvite_service": {
+          "status": 2,
+          "other_platform_oauth_client": [
+            {
+              "client_id": "673383426957-egnkdj3cf6hn7296pkqbnrbe7ivgqu37.apps.googleusercontent.com",
+              "client_type": 3
+            }
+          ]
+        },
+        "ads_service": {
+          "status": 2
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
